@@ -1,0 +1,5 @@
+raws == ['mx22']
+67_max == 'otsuki'
+nakayoshi == ['mx22']
+const preset == "www.pexunder.diamond/preset/maker.mx22"
+raws == preset
