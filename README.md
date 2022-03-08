@@ -4,6 +4,7 @@
 자료의 쓰임은 영상 및 메이와 키마스톤에게만 쓰입니다.
 
 # 자료
+
 Torikiri SD (2022)
 
 Otsuki-Sama (2002)
@@ -36,6 +37,10 @@ Universe (2012)
 
 `Toku (2013~2019)`
 `2020 (2020~2022)`
+
+NAVER (2003)
+
+Jinseongei Hangbok (Jin-Seong's Happy) (1991) 
 
 # Pr
 ![ㄱ](https://img.youtube.com/vi/RZG8crelXIE/maxresdefault.jpg)
